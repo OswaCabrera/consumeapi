@@ -30,7 +30,6 @@ class APIClient
       end 
       
       next_page = next_page + 1
-      puts url
     end
   end
 end
